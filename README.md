@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Erick 👋
 
-<!--
-**erickt18/erickt18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy aprendiendo desarrollo de software con Java y Spring Boot.
+En este portafolio comparto mis proyectos y lo que aprendo al construirlos.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [XELQA Backend](https://github.com/erickt18/xelqa-backend) — Backend desarrollado con Spring Boot.
+- Proyecto DUI — [Backend en Java](https://github.com/erickt18/DUI_Project_Backend) y [frontend](https://github.com/erickt18/DUI_Project_Frontend).
+
+## Próximo proyecto
+
+Quiero crear un sistema para gimnasios que permita administrar clientes,
+membresías y mensualidades. Más adelante, me gustaría añadir recordatorios
+de vencimiento por correo.
